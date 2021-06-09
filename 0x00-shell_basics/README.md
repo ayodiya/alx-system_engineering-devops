@@ -9,3 +9,5 @@
 - 3-listfiles *list files in long format*
 
 - 4-listmorefiles *Show hidden files*
+
+- 5-listfilesdigitonly *list file digits*
