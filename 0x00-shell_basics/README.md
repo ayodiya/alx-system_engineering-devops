@@ -25,3 +25,5 @@
 - 12-file_type *show page type*
 
 - 13-symbolic_link *create symbolic link*
+
+- 14-copy_html * copy only new files*
