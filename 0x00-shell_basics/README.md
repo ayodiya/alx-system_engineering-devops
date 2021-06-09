@@ -21,3 +21,5 @@
 - 9-firstdirdeletion *first dir deletion* 
 
 - 10-back *go back to previous directory*
+
+- 12-file_type * show page type*
