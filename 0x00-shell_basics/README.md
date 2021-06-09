@@ -7,3 +7,5 @@
 - 2-bring_me_home *Change directory to Home*
 
 - 3-listfiles *list files in long format*
+
+- 4-listmorefiles *Show hidden files*
