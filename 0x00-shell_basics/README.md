@@ -19,3 +19,5 @@
 - 8-firstdelete *delete betty*
 
 - 9-firstdirdeletion *first dir deletion* 
+
+- 10-back *go back to previous directory*
