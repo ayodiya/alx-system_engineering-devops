@@ -16,4 +16,6 @@
 
 - 7-movethatfile *Move a file*
 
+- 8-firstdelete *delete betty*
+
  
