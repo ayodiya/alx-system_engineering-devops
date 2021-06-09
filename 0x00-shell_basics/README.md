@@ -22,6 +22,8 @@
 
 - 10-back *go back to previous directory*
 
+- 11-lists *list all files*
+
 - 12-file_type *show page type*
 
 - 13-symbolic_link *create symbolic link*
