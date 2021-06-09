@@ -13,3 +13,7 @@
 - 5-listfilesdigitonly *list file digits*
 
 - 6-firstdirectory *Create Holberton directory*
+
+- 7-movethatfile *Move a file*
+
+ 
