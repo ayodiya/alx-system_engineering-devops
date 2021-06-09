@@ -11,3 +11,5 @@
 - 4-listmorefiles *Show hidden files*
 
 - 5-listfilesdigitonly *list file digits*
+
+- 6-firstdirectory *Create Holberton directory*
