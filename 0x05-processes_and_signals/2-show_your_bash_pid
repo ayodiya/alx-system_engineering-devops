@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#display pid of a bash
+
+# shellcheck disable=SC2009
+
+ps -auxf | grep "bash"
+© 2021 GitHub, Inc.
+Terms
